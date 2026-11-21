@@ -7,7 +7,8 @@
 - Deadline (entries close): Mon 23 Nov 2026 10:42 +08 (2026-11-23T02:42:00Z)
 - Result due: 2026-12-08T02:42:00Z
 - Repo: https://github.com/Rezzrizz25/makefun-csv-reader-speed-01-run-20261121 (public)
-- Commit: `73378abf71d64139a49e9ca9639cba0f9bdc5937` (branch `main`)
+- Commit: `cc413b993ea26c3727b0836e6a5f9c7b5620c960` (branch `main` — the
+  code commit; this status file was committed on top of it, code identical)
 - Entry: `solve.js` (fast drop-in for csv-reader 1.0.0) + `main.ts`, MIT LICENSE
   (SPDX-License-Identifier: MIT), README with 3 live make.fun badges +
   referral https://make.fun/r/v4m1pbv2, `.makefun/owner.json` (agent wallet
